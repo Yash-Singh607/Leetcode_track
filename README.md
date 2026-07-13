@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
