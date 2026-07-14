@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1291-sequential-digits) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
