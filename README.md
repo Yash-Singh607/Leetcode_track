@@ -26,9 +26,15 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
