@@ -1,30 +1,37 @@
 class Solution {
     public String smallestSubsequence(String s) {
-    int[] lastIndex = new int[26];
-        for (int i = 0; i < s.length(); i++) lastIndex[s.charAt(i) - 'a'] = i;
 
-        boolean[] seen = new boolean[26];
-        Deque<Character> stack = new ArrayDeque<>();
+        int[] last = new int[26];
 
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (seen[c - 'a']) continue;
-
-            while (!stack.isEmpty() && c < stack.peek() && i < lastIndex[stack.peek() - 'a']) {
-                seen[stack.pop() - 'a'] = false;
-            }
-
-            stack.push(c);
-            seen[c - 'a'] = true;
+            last[s.charAt(i) - 'a'] = i;
         }
 
-        StringBuilder sb = new StringBuilder();
-        while (!stack.isEmpty()) sb.append(stack.pollLast());
-        return sb.toString();
-    }
+        boolean[] used = new boolean[26];
+        StringBuilder stack = new StringBuilder();
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.smallestSubsequence("cbacdcbc")); // Output: acdb
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            if (used[ch - 'a']) {
+                continue;
+            }
+
+            while (stack.length() > 0 &&
+                   stack.charAt(stack.length() - 1) > ch &&
+                   last[stack.charAt(stack.length() - 1) - 'a'] > i) {
+
+                char removed = stack.charAt(stack.length() - 1);
+
+                stack.deleteCharAt(stack.length() - 1);
+                used[removed - 'a'] = false;
+            }
+
+            stack.append(ch);
+            used[ch - 'a'] = true;
+        }
+
+        return stack.toString();
     }
 }
