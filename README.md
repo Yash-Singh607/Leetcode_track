@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -59,4 +61,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
