@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
@@ -79,9 +80,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
