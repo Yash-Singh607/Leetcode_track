@@ -44,6 +44,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
