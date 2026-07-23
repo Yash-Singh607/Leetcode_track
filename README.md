@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
