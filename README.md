@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,5 +101,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
