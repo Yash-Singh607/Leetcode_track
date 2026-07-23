@@ -24,6 +24,7 @@ class Solution {
             temp2=temp2.next;
             ans=ans.next;
         }
+        // if my l1 is not empty
         while(temp1!=null){
             sum=temp1.val+carry;
             ans.next=new ListNode(sum%10);
@@ -31,6 +32,7 @@ class Solution {
             temp1=temp1.next;
             ans=ans.next;
         }
+        // if my l2 is not empty 
         while(temp2!=null){
             sum=temp2.val+carry;
             ans.next=new ListNode(sum%10);
