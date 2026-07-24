@@ -1,23 +1,25 @@
 class Solution {
     public String reverseVowels(String s) {
-        ArrayList<Character> list=new ArrayList<>();
-        for(int j=0;j<s.length();j++){
-            if(s.charAt(j)=='A'||s.charAt(j)=='a'||s.charAt(j)=='E'||s.charAt(j)=='e'||s.charAt(j)=='I'||s.charAt(j)=='i'||s.charAt(j)=='O'||s.charAt(j)=='o'||s.charAt(j)=='U'||s.charAt(j)=='u'){
-                list.add(s.charAt(j));
+        char[] arr = s.toCharArray();
+        int left = 0;
+        int right = arr.length - 1;
+        while (left < right) {
+            while (left < right && !isVowel(arr[left])) {
+                left++;
             }
+            while (left < right && !isVowel(arr[right])) {
+                right--;
+            }
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            left++;
+            right--;
         }
-        Collections.reverse(list);
-        String ans="";
-        int l=0;
-        for(int j=0;j<s.length();j++){
-            if(s.charAt(j)=='A'||s.charAt(j)=='a'||s.charAt(j)=='E'||s.charAt(j)=='e'||s.charAt(j)=='I'||s.charAt(j)=='i'||s.charAt(j)=='O'||s.charAt(j)=='o'||s.charAt(j)=='U'||s.charAt(j)=='u'){
-                ans=ans+list.get(l);
-                l++;
-            }
-            else{
-                ans=ans+s.charAt(j);
-            }
-        }
-        return ans;
+        return new String(arr);
+    }
+    private boolean isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
+               c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
     }
 }
