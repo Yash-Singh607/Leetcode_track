@@ -50,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
