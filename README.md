@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
