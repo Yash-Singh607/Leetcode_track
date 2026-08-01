@@ -39,6 +39,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +144,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
