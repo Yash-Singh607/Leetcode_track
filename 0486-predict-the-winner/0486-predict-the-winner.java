@@ -2,7 +2,7 @@ class Solution {
     public boolean predictTheWinner(int[] nums) {
         return helper(nums, 0, nums.length - 1, 0, 0, true);
     }
-
+// You may assume that both players are playing optimally. this is main point why player 2 also wants to win
     private boolean helper(int[] nums, int left, int right,int p1, int p2, boolean p1turn) {
         if (left > right) {
             return p1 >= p2;
