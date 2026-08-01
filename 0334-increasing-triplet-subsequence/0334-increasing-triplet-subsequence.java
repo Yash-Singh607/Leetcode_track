@@ -4,11 +4,11 @@ class Solution {
         int second = Integer.MAX_VALUE;
         for (int num : nums) {
             if (num <= first) {
-                first = num;
+                first = num;          // smallest seen so far
             } else if (num <= second) {
-                second = num;
+                second = num;         // second smallest (greater than first)
             } else {
-                return true;
+                return true;          // found a number greater than both ⇒ triplet exists
             }
         }
         return false;
