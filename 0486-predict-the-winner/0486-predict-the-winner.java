@@ -8,9 +8,11 @@ class Solution {
             return p1 >= p2;
         }
         if (p1turn) {
+            //Player 1 chooses the better move.
             return helper(nums, left + 1, right, p1 + nums[left], p2, false)
                 || helper(nums, left, right - 1, p1 + nums[right], p2, false);
         } else {
+            //Player 2 chooses the move that hurts Player 1 the most.
             return helper(nums, left + 1, right, p1, p2 + nums[left], true)
                 && helper(nums, left, right - 1, p1, p2 + nums[right], true);
         }
