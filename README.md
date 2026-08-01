@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
+| [0334-increasing-triplet-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
