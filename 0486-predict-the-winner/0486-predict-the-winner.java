@@ -1,13 +1,18 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        return helper(nums, 0, nums.length - 1) >= 0;
+        return helper(nums, 0, nums.length - 1, 0, 0, true);
     }
-    private int helper(int[] nums, int left, int right) {
-        if (left == right) {
-            return nums[right];
+
+    private boolean helper(int[] nums, int left, int right,int p1, int p2, boolean p1turn) {
+        if (left > right) {
+            return p1 >= p2;
         }
-        int pickLeft = nums[left] - helper(nums, left + 1, right);
-        int pickRight = nums[right] - helper(nums, left, right - 1);
-        return Math.max(pickLeft, pickRight);
+        if (p1turn) {
+            return helper(nums, left + 1, right, p1 + nums[left], p2, false)
+                || helper(nums, left, right - 1, p1 + nums[right], p2, false);
+        } else {
+            return helper(nums, left + 1, right, p1, p2 + nums[left], true)
+                && helper(nums, left, right - 1, p1, p2 + nums[right], true);
+        }
     }
 }
