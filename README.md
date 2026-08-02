@@ -198,4 +198,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
