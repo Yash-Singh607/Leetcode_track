@@ -22,7 +22,6 @@ class Solution {
             flowerbed[len - 1] = 1;
             count++;
         }
-
         return count >= n;
     }
 }
