@@ -205,4 +205,5 @@
 | [0176-second-highest-salary](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0184-department-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
