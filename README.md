@@ -221,4 +221,16 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
