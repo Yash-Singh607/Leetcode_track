@@ -229,16 +229,23 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
