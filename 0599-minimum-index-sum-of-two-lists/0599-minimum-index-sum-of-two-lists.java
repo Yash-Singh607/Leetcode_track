@@ -11,7 +11,7 @@ class Solution {
                 int sum = i + map.get(list2[i]);
                 if (sum < min) {
                     min = sum;
-                    ans.clear();       
+                    ans.clear();   // if best found    
                     ans.add(list2[i]);   
                 }
                 else if (sum == min) {
