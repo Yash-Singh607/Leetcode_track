@@ -136,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
@@ -162,6 +163,7 @@
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -172,6 +174,7 @@
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
