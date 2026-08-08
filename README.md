@@ -239,6 +239,7 @@
 | [0177-nth-highest-salary](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0595-big-countries) |
