@@ -278,6 +278,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -285,6 +286,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3310-remove-methods-from-project](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3310-remove-methods-from-project) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -333,4 +336,12 @@
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
