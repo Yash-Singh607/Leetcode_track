@@ -41,6 +41,7 @@
 | [0605-can-place-flowers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +122,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
