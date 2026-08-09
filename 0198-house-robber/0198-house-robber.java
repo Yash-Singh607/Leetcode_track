@@ -1,13 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        int prevRob = 0;
-        int maxRob = 0;
-        for (int curValue : nums) {
-            int temp = Math.max(maxRob, prevRob + curValue);
-            prevRob = maxRob;
-            maxRob = temp;
+        // Money we could have before the previous house
+        int before = 0;
+        // Maximum money we can have so far
+        int best = 0;
+        // Visit each house one by one
+        for (int money : nums) {
+            // If we skip this house → best
+            // If we rob this house → before + money
+            // Choose whichever gives more money
+            int current = Math.max(best, before + money);
+            // For the next house,
+            // current "best" becomes the value from before
+            before = best;
+            // Store the new maximum money
+            best = current;
         }
-
-        return maxRob;        
+        // Return the maximum money we can rob
+        return best;
     }
 }
