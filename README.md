@@ -206,6 +206,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
@@ -213,6 +214,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
