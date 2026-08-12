@@ -1,24 +1,20 @@
 class Solution {
     public int[] countOppositeParity(int[] nums) {
-        int n = nums.length;
-        int odd = 0;
-        int even = 0;
-        int[] ans = new int[n];
-        // Traverse from right to left so that
-        // odd and even store the counts of elements to the right
-        for (int i = n - 1; i >= 0; i--) {
-            // If current number is even,
-            // we need the count of odd numbers after it
-            if (nums[i] % 2 == 0) {
-                ans[i] = odd;
-                even++;
-            } 
-            // If current number is odd,
-            // we need the count of even numbers after it
-            else {
-                ans[i] = even;
-                odd++;
-            }
+        // count[0] = number of even elements seen on the right
+        // count[1] = number of odd elements seen on the right
+        int[] count = new int[2];
+        int[] ans = new int[nums.length];
+        // Traverse from right to left because we need
+        // to count elements that come after the current index
+        for (int i = nums.length - 1; i >= 0; i--) {
+            // 0 = even, 1 = odd
+            int parity = nums[i] % 2;
+            // 1 - parity gives the opposite parity
+            // If current is even (0), count odd (1)
+            // If current is odd (1), count even (0)
+            ans[i] = count[1 - parity];
+            // Add the current number to its parity count
+            count[parity]++;
         }
         return ans;
     }
