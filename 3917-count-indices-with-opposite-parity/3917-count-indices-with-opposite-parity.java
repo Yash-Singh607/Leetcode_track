@@ -6,14 +6,13 @@ class Solution {
         int[] ans = new int[n];
         for (int i = n - 1; i >= 0; i--) {
             if (nums[i] % 2 == 0) {
-                even++;
                 ans[i] = odd;
+                even++;
             } else {
-                odd++;
                 ans[i] = even;
+                odd++;
             }
         }
-
         return ans;
     }
 }
