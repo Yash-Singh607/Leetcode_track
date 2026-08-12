@@ -91,6 +91,7 @@
 | [0605-can-place-flowers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
