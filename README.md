@@ -112,6 +112,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
 | [3809-best-reachable-tower](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3809-best-reachable-tower) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
 |  |
 | ------- |
