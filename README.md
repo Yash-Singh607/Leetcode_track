@@ -92,6 +92,7 @@
 | [0605-can-place-flowers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
