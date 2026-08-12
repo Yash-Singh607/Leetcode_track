@@ -17,6 +17,6 @@ class Solution {
         return ans;
     }
 }
-//Beginning → i
-//Middle    → (i - last) / 2
-//End       → n - 1 - last
+//First gap:   ans = i
+//Middle gap:  ans = (i - last) / 2
+//Last gap:    ans = seats.length - 1 - last
