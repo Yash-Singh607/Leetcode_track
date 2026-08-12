@@ -102,6 +102,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3151-special-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -179,6 +180,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
