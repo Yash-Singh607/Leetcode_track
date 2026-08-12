@@ -106,6 +106,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3151-special-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3151-special-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
