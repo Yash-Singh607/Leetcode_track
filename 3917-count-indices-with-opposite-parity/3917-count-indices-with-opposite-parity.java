@@ -9,9 +9,6 @@ class Solution {
         for (int i = nums.length - 1; i >= 0; i--) {
             // 0 = even, 1 = odd
             int parity = nums[i] % 2;
-            // 1 - parity gives the opposite parity
-            // If current is even (0), count odd (1)
-            // If current is odd (1), count even (0)
             ans[i] = count[1 - parity];
             // Add the current number to its parity count
             count[parity]++;
