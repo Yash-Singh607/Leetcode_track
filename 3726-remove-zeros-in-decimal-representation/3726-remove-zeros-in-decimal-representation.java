@@ -1,12 +1,14 @@
 class Solution {
     public long removeZeros(long n) {
-        String s=""+n;
-        String ans="";
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)!='0'){
-                ans+=s.charAt(i);
+        long res = 0, mult = 1;
+        while (n > 0) {
+            long rem = n % 10;
+            if (rem != 0) {
+                res += rem * mult;
+                mult *= 10;
             }
+            n /= 10;
         }
-        return Long.parseLong(ans);
+        return res;
     }
 }
