@@ -150,6 +150,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Number Theory
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Combinatorics
 |  |
 | ------- |
