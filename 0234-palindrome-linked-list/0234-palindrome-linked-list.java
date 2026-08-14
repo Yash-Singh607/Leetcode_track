@@ -1,22 +1,32 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode curr = head;
-        // Store values
-        while (curr != null) {
-            list.add(curr.val);
-            curr = curr.next;
+
+        // Find the middle of the linked list
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        // Check palindrome
-        int left = 0;
-        int right = list.size() - 1;
-        while (left < right) {
-            if (!list.get(left).equals(list.get(right))) {
+        // Reverse the second half
+        ListNode prev = null;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
+        // Compare first half and reversed second half
+        ListNode left = head;
+        ListNode right = prev;
+
+        while (right != null) {
+            if (left.val != right.val) {
                 return false;
             }
 
-            left++;
-            right--;
+            left = left.next;
+            right = right.next;
         }
 
         return true;
