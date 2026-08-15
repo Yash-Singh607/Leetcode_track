@@ -6,10 +6,9 @@ class Solution {
             str.append(s.substring(k,spaces[i])).append(" ");
             k=spaces[i];
             if(i==spaces.length-1){
-                str.append(s.substring(k,s.length()));
+                str.append(s.substring(k));
             }
         }
-        //str.append(s.substring(k,spaces[spaces.length-1]));
         return str.toString();
     }
 }
