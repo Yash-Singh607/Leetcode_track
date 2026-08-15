@@ -27,3 +27,7 @@ class Solution {
         return max; 
     } 
 }
+
+//       enters              leaves
+//          ↓                   ↓
+//  sum += nums[right]    sum -= nums[left]
