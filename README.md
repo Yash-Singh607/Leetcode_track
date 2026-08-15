@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0213-house-robber-ii) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
@@ -357,6 +359,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
