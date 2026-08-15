@@ -115,6 +115,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3151-special-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3151-special-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
 | [3809-best-reachable-tower](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3809-best-reachable-tower) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3917-count-indices-with-opposite-parity) |
@@ -257,6 +258,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
