@@ -19,6 +19,7 @@ class Solution {
         return 0;
     }
 }
-/*XOR != 0 → answer is n
-XOR == 0 and there is a non-zero number → answer is n - 1
-All numbers are 0 → answer is 0*/
+/* XOR != 0 → answer is n
+   XOR == 0 and there is a non-zero number → answer is n - 1
+   All numbers are 0 → answer is 0
+*/
