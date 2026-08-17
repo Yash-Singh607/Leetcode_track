@@ -68,6 +68,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
@@ -108,6 +109,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
@@ -154,6 +156,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -305,6 +308,7 @@
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
