@@ -1,11 +1,13 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
         int[] count = new int[51];
-        // Check every subarray of size k
-        for (int i = 0; i <= nums.length - k; i++) {
+        // Check every window of size k
+        for (int start = 0; start <= nums.length - k; start++) {
             boolean[] seen = new boolean[51];
-            // Check elements inside the current window
-            for (int j = i; j < i + k; j++) {
+            // Find the end of the current window
+            int end = start + k - 1;
+            // Check all elements in this window
+            for (int j = start; j <= end; j++) {
                 // Count a number only once in each window
                 if (!seen[nums[j]]) {
                     count[nums[j]]++;
@@ -13,13 +15,13 @@ class Solution {
                 }
             }
         }
-        // Start from largest number
-        for (int i = 50; i >= 0; i--) {
-            // Appears in exactly one subarray
-            if (count[i] == 1) {
-                return i;
+        // Find the largest number that appears in exactly one window
+        int ans = -1;
+        for (int num = 0; num <= 50; num++) {
+            if (count[num] == 1) {
+                ans = num;
             }
         }
-        return -1;
+        return ans;
     }
 }
