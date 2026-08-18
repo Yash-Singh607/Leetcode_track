@@ -1,31 +1,15 @@
 class Solution {
     public int captureForts(int[] forts) {
-        int ans = 0;
-        for (int i = 0; i < forts.length; i++) {
-            // Start from our fort
-            if (forts[i] == 1) {
-                int j = i + 1;
-                // Move through enemy forts
-                while (j < forts.length && forts[j] == 0) {
-                    j++;
-                }
-                // If we reach an empty position
-                if (j < forts.length && forts[j] == -1) {
-                    ans = Math.max(ans, j - i - 1);
-                }
+        int last=-1;
+        int ans=0;
+        for(int i=0;i<forts.length;i++){
+            if(forts[i]==0){
+                continue;
             }
-            // Start from an empty position
-            if (forts[i] == -1) {
-                int j = i + 1;
-                // Move through enemy forts
-                while (j < forts.length && forts[j] == 0) {
-                    j++;
-                }
-                // If we reach our fort
-                if (j < forts.length && forts[j] == 1) {
-                    ans = Math.max(ans, j - i - 1);
-                }
+            else if(last!=-1 && forts[last]!=forts[i]){
+                ans=Math.max(ans,i-last-1);
             }
+            last=i;
         }
         return ans;
     }
