@@ -12,7 +12,7 @@ class Solution {
             // Add the reserved seat to that row
             map.get(row).add(seatNumber);
         }
-        // Rows without reservations can fit 2 groups
+        // Rows without reservations can fit 2 groups (optimal approach)
         int ans = (n - map.size()) * 2;
         // Check rows that have reservations
         for (Set<Integer> seats : map.values()) {
