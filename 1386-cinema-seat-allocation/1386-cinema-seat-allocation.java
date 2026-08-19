@@ -12,13 +12,19 @@ class Solution {
             // Add the reserved seat to that row
             map.get(row).add(seatNumber);
         }
-        // Rows without reservations can fit 2 groups (optimal approach)
+        // An empty row means no seat is reserved in that row.
+        // An empty row can always fit 2 groups.
+        // map.size() = number of rows having at least one reserved seat.
         int ans = (n - map.size()) * 2;
-        // Check rows that have reservations
+        // Check rows that have reserved seats
         for (Set<Integer> seats : map.values()) {
-            boolean left = true;    // Seats 2-5
-            boolean middle = true;  // Seats 4-7
-            boolean right = true;   // Seats 6-9
+            // Three possible blocks:
+            // Left   = seats 2,3,4,5
+            // Middle = seats 4,5,6,7
+            // Right  = seats 6,7,8,9
+            boolean left = true;
+            boolean middle = true;
+            boolean right = true;
             // Check left block
             for (int i = 2; i <= 5; i++) {
                 if (seats.contains(i)) {
@@ -37,15 +43,19 @@ class Solution {
                     right = false;
                 }
             }
-            // Left and right can both be used
+            // Left and right do not overlap,
+            // so both groups can sit together.
             if (left && right) {
                 ans += 2;
             }
-            // At least one block can be used
+            // If at least one block is available,
+            // we can place one group.
             else if (left || middle || right) {
                 ans++;
             }
+            // If no block is available, add nothing.
         }
+
         return ans;
     }
 }
