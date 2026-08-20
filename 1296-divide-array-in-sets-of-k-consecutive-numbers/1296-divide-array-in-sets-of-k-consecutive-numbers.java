@@ -30,6 +30,7 @@ class Solution {
                 map.put(current, map.get(current) - 1);
             }
         }
+        // I successfully used every number in consecutive groups of size k
         return true;
     }
 }
