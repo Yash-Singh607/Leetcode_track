@@ -132,6 +132,7 @@
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3151-special-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3151-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -149,6 +150,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -297,6 +301,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
@@ -317,6 +322,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
