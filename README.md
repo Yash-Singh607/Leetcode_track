@@ -74,6 +74,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
@@ -123,6 +124,7 @@
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
@@ -172,6 +174,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
@@ -241,6 +244,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +348,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 ## Database
@@ -454,6 +459,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -468,6 +474,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
