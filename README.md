@@ -130,6 +130,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
