@@ -33,6 +33,7 @@
 | [3340-check-balanced-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -347,6 +351,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
