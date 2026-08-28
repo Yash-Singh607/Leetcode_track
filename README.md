@@ -136,6 +136,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -214,6 +215,7 @@
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0074-search-a-2d-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
