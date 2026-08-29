@@ -1,18 +1,18 @@
-import java.util.*;
 class Solution {
     public int findMinArrowShots(int[][] points) {
-        // Sort by end
-        Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
-        int arrows = 1;
-        int arrowPosition = points[0][1];
-        for (int[] balloon : points) {
-            int start = balloon[0];
-            // Need new arrow
-            if (start > arrowPosition) {
-                arrows++;
-                arrowPosition = balloon[1];
-            }
+        if(points.length==0){
+            return 0;
         }
-        return arrows;
+        Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
+        int end = points[0][1];
+        int cnt = 1;
+        for(int i=1;i<points.length;i++){
+            if(end>=points[i][0]){
+                continue;
+            }
+            cnt++;
+            end = points[i][1];
+        }
+        return cnt;
     }
 }
