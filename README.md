@@ -138,6 +138,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -315,6 +316,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -510,4 +512,8 @@
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
