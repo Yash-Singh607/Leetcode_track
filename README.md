@@ -51,6 +51,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
@@ -120,6 +121,7 @@
 | [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0849-maximize-distance-to-closest-person) |
+| [0860-lemonade-change](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
