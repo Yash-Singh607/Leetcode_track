@@ -58,6 +58,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -137,6 +138,7 @@
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
