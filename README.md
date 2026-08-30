@@ -132,6 +132,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1528-shuffle-string) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
