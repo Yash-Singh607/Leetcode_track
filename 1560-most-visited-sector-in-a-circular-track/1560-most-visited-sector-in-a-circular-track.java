@@ -9,14 +9,13 @@ class Solution {
             }
         }
         else {
-            for(int i=start;i<=n;i++){
-                list.add(i);
-            }
             for(int i=1;i<=end;i++){
                 list.add(i);
             }
+            for(int i=start;i<=n;i++){
+                list.add(i);
+            }
         }
-        Collections.sort(list);
         return list;
     }
 }
