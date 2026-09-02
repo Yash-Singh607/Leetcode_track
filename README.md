@@ -164,6 +164,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
 | [3809-best-reachable-tower](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3809-best-reachable-tower) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3875-construct-uniform-parity-array-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
 |  |
@@ -210,6 +211,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
