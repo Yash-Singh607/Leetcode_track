@@ -167,6 +167,7 @@
 | [3809-best-reachable-tower](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3809-best-reachable-tower) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
 |  |
@@ -276,6 +277,7 @@
 | [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
