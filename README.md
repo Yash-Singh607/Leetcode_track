@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1291-sequential-digits) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -135,6 +136,7 @@
 | [1528-shuffle-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1528-shuffle-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
