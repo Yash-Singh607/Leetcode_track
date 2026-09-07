@@ -152,6 +152,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -311,6 +312,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -356,6 +358,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
@@ -377,6 +380,7 @@
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
 |  |
 | ------- |
