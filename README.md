@@ -146,6 +146,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
+| [1734-decode-xored-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1734-decode-xored-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
+| [1734-decode-xored-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1734-decode-xored-permutation) |
 | [2527-find-xor-beauty-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2527-find-xor-beauty-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3513-number-of-unique-xor-triplets-i) |
