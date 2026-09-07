@@ -160,6 +160,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2527-find-xor-beauty-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2527-find-xor-beauty-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2562-find-the-array-concatenation-value) |
@@ -286,6 +287,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -319,6 +321,7 @@
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
