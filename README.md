@@ -17,6 +17,7 @@
 | [0443-string-compression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
+| [0940-distinct-subsequences-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1108-defanging-an-ip-address) |
@@ -81,6 +82,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
