@@ -28,3 +28,5 @@ class Solution {
         return maxsum;
     }
 }
+// 1st while → remove duplicate
+// 2nd while → maintain window size k
