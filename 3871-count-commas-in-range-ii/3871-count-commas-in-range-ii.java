@@ -1,11 +1,16 @@
 class Solution {
     public long countCommas(long n) {
-        long biggest = 999;
-        long commaSum = 0;
-        while (n > biggest){
-            commaSum += n-biggest;
-            biggest = biggest * 1000 + 999;
-        }
-        return commaSum;
+        long ans = 0;
+        if (n >= 1000)
+            ans += n - 999;
+        if (n >= 1000000)
+            ans += n - 999999;
+        if (n >= 1000000000)
+            ans += n - 999999999;
+        if (n >= 1000000000000L)
+            ans += n - 999999999999L;
+        if (n >= 1000000000000000L)
+            ans += n - 999999999999999L;
+        return ans;
     }
 }
