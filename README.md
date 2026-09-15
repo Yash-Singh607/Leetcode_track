@@ -142,6 +142,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
@@ -327,6 +328,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
+| [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
