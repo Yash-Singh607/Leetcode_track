@@ -164,6 +164,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -332,6 +333,7 @@
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
