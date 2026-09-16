@@ -91,6 +91,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -228,6 +229,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -312,6 +314,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3903-smallest-stable-index-i) |
@@ -426,6 +429,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
