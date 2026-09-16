@@ -160,6 +160,7 @@
 | [1734-decode-xored-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1734-decode-xored-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
+| [1920-build-array-from-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -422,6 +423,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0682-baseball-game) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1920-build-array-from-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
