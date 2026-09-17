@@ -1,16 +1,18 @@
 class Solution {
     public int[] sumZero(int n) {
-        int [] ans=new int[n];
-        int left=0;
-        int right=n-1;
-        int val=1;
-        while(left<right){
-            ans[left]=-val;
-            ans[right]=val;
-            left++;
-            right--;
-            val++;
+        int[] arr = new int[n];
+        int index = 0;
+        // Add pairs: 1,-1, 2,-2, ...
+        for (int i = 1; i <= n / 2; i++) {
+            arr[index] = i;
+            index = index + 1;
+            arr[index] = -i;
+            index = index + 1;
         }
-        return ans;
+        // If n is odd, add 0
+        if (n % 2 != 0) {
+            arr[index] = 0;
+        }
+        return arr;
     }
 }
