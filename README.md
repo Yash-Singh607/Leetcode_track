@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
@@ -547,6 +549,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
