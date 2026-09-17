@@ -51,6 +51,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0435-non-overlapping-intervals) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +114,7 @@
 | [0048-rotate-image](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
