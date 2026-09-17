@@ -18,6 +18,7 @@
 | [0443-string-compression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -48,6 +49,7 @@
 | [0234-palindrome-linked-list](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
@@ -300,6 +302,7 @@
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1768-merge-strings-alternately) |
@@ -439,6 +442,7 @@
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0844-backspace-string-compare) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
