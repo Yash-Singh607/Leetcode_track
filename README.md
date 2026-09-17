@@ -31,6 +31,7 @@
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -49,6 +50,7 @@
 | [0682-baseball-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -440,6 +442,7 @@
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
