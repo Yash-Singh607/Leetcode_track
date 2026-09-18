@@ -188,6 +188,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2527-find-xor-beauty-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2527-find-xor-beauty-of-array) |
@@ -311,6 +312,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2562-find-the-array-concatenation-value) |
@@ -453,6 +455,7 @@
 | [1920-build-array-from-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3726-remove-zeros-in-decimal-representation) |
