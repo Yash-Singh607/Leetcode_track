@@ -135,6 +135,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
@@ -299,6 +300,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
