@@ -162,6 +162,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -291,6 +292,7 @@
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0074-search-a-2d-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
