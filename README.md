@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
@@ -299,6 +301,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
@@ -656,4 +659,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
