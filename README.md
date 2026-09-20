@@ -436,6 +436,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0693-binary-number-with-alternating-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
 | [1734-decode-xored-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1734-decode-xored-permutation) |
 | [2527-find-xor-beauty-of-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2527-find-xor-beauty-of-array) |
