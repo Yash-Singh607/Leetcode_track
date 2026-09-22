@@ -166,6 +166,7 @@
 | [0860-lemonade-change](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -347,6 +348,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -382,6 +384,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
