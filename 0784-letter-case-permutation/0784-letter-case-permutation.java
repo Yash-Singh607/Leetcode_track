@@ -1,23 +1,21 @@
 class Solution {
+    List<String> ans = new ArrayList<>();
     public List<String> letterCasePermutation(String s) {
-        List<String> list=new ArrayList<>();
-        String str="";
-        helper(s,0,str,list);
-        return list;
-        }
-        public void helper(String s,int i,String ans,List<String> list){
-        if(ans.length()==s.length()){
-            list.add(ans);
+        generate(s.toCharArray(), 0);
+        return ans;
+    }
+    public void generate(char[] arr, int idx) {
+        if (idx == arr.length) {
+            ans.add(new String(arr));
             return;
         }
-        char ch=s.charAt(i);
-        if(Character.isLetter(ch)){
-            helper(s,i+1,ans+Character.toLowerCase(ch),list);
-            helper(s,i+1,ans+Character.toUpperCase(ch),list);
+        if (Character.isDigit(arr[idx])) {
+            generate(arr, idx + 1);
+            return;
         }
-        else{
-            helper(s,i+1,ans+ch,list);
-        }
+        arr[idx] = Character.toLowerCase(arr[idx]);
+        generate(arr, idx + 1);
+        arr[idx] = Character.toUpperCase(arr[idx]);
+        generate(arr, idx + 1);
     }
-    }
-    
+}
