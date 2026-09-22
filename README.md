@@ -167,6 +167,7 @@
 | [0875-koko-eating-bananas](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -250,6 +251,7 @@
 | [0053-maximum-subarray](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
@@ -441,6 +444,7 @@
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -472,6 +476,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
@@ -608,6 +613,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -674,6 +680,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -686,4 +693,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1143-longest-common-subsequence) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
