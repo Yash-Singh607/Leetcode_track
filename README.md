@@ -24,6 +24,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -56,6 +57,7 @@
 | [0682-baseball-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -397,6 +399,7 @@
 | [0692-top-k-frequent-words](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1386-cinema-seat-allocation) |
@@ -456,6 +459,7 @@
 | [0846-hand-of-straights](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -594,6 +598,7 @@
 | [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -609,6 +614,7 @@
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0784-letter-case-permutation) |
+| [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
