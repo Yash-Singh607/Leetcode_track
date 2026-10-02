@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0076-minimum-window-substring) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0055-jump-game) |
@@ -620,6 +622,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0784-letter-case-permutation) |
 | [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -729,6 +732,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
