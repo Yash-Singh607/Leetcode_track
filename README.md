@@ -14,6 +14,7 @@
 | [0115-distinct-subsequences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
@@ -406,6 +407,7 @@
 | [0141-linked-list-cycle](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -462,6 +464,7 @@
 | [0075-sort-colors](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0435-non-overlapping-intervals) |
