@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0392-is-subsequence) |
@@ -619,6 +620,7 @@
 | [0100-same-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -635,6 +637,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0784-letter-case-permutation) |
 | [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3348-smallest-divisible-digit-product-ii) |
