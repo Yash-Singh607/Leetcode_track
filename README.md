@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0316-remove-duplicate-letters) |
@@ -756,6 +758,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0678-valid-parenthesis-string) |
