@@ -132,6 +132,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -212,6 +213,7 @@
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1695-maximum-erasure-value) |
@@ -287,6 +289,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [1406-stone-game-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1927-sum-game) |
@@ -548,6 +552,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -606,6 +611,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -627,6 +633,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -646,6 +653,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -678,6 +686,7 @@
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -732,6 +741,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
@@ -775,4 +785,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
