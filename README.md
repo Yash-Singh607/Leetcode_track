@@ -201,6 +201,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1004-max-consecutive-ones-iii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1207-unique-number-of-occurrences](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1254-number-of-closed-islands) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -356,6 +357,7 @@
 | [0054-spiral-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1254-number-of-closed-islands) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -628,6 +630,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -648,6 +651,7 @@
 | [0226-invert-binary-tree](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Yash-Singh607/Leetcode_track/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -747,6 +751,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yash-Singh607/Leetcode_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
