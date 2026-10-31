@@ -139,6 +139,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3665-twisted-mirror-path-count) |
 ## Enumeration
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3731-find-missing-elements) |
@@ -364,6 +366,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/Yash-Singh607/Leetcode_track/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-Singh607/Leetcode_track/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
